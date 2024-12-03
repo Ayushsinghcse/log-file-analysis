@@ -33,5 +33,5 @@ This Python script analyzes web server log files to extract meaningful insights 
 
 1. Clone this repository or download the script:
    ```bash
-   git clone https://github.com/your-username/log-file-analyzer.git
+   git clone https://github.com/Ayushsinghcse/log-file-analysis
    cd log-file-analyzer
